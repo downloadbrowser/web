@@ -18,10 +18,10 @@ Once downloaded, files can be accessed directly within the app.
 
 If you have a link to download. Open a Downloads screen and tap on "Paste link".
 
-![open downloads](/assets/screenshot/howto-1.png){:width="50%"}
+![open downloads](assets/screenshot/howto-1.png)
 
 There you need to paste the file url and download a file.
 
-![paste link](/assets/screenshot/howto-2.png){:width="50%"}
+![paste link](assets/screenshot/howto-2.png)
 
 The process is designed to be straightforward, allowing for easy file management and offline access to your downloads.
