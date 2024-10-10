@@ -8,7 +8,7 @@ include_in_header: true
 
 To use the Download Browser for file downloads, first, navigate to the desired content using the web browser page. Tap on the download link or button provided on the webpage.
 
-[Tap here to download a sample video file!](big_buck_bunny_360p_1mb.some_long_filename.mp3.some_more.mp4){:target="_self"}
+[Tap here to download a sample video file!](big_buck_bunny_360p_1mb.mp4){:target="_self"}
 
 You might have options to rename the file and choose where to save it. The download will start, and you can track its progress.
 
